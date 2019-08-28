@@ -8,8 +8,8 @@
 1. Clone the repository
 
 ```sh
-git clone https://github.com/sleeek/sleeek-docs.git
-cd website
+$ git clone https://github.com/sleeek/sleeek-docs.git
+$ cd website
 ```
 
 2. Install dependencies
