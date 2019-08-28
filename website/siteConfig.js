@@ -45,7 +45,7 @@ const siteConfig = {
   // algolia
   algolia: {
     apiKey: '51dcb3b824f87c158b835d2214553916',
-    indexName: 'sleeek',
+    indexName: 'sleeek-docs',
   },
 
 

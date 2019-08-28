@@ -37,33 +37,36 @@ class Footer extends React.Component {
           </a>
           <div>
             <h5>Docs</h5>
-            <a href={this.docUrl('doc1.html', this.props.language)}>
-              Getting Started (or other categories)
+            <a href={this.docUrl('/general/how-does-it-work', this.props.language)}>
+              General
             </a>
-            <a href={this.docUrl('doc2.html', this.props.language)}>
-              Guides (or other categories)
+            <a href={this.docUrl('/integration/github', this.props.language)}>
+              Integration
             </a>
-            <a href={this.docUrl('doc3.html', this.props.language)}>
-              API Reference (or other categories)
+            
+          </div>
+          <div>
+            <h5>Resources</h5>
+            <a
+              href="https://sleeek.io/faq"
+              target="_blank"
+              rel="noreferrer noopener">
+              FAQ
+            </a>
+            <a
+              href="https://community.sleeek.io/"
+              target="_blank"
+              rel="noreferrer noopener">
+              Community site
             </a>
           </div>
           <div>
-            <h5>Community</h5>
-            <a href={this.pageUrl('users.html', this.props.language)}>
-              User Showcase
-            </a>
+            <h5>Sleeek</h5>
             <a
-              href="https://stackoverflow.com/questions/tagged/"
+              href="https://sleeek.io"
               target="_blank"
               rel="noreferrer noopener">
-              Stack Overflow
-            </a>
-            <a href="https://discordapp.com/">Project Chat</a>
-            <a
-              href="https://twitter.com/"
-              target="_blank"
-              rel="noreferrer noopener">
-              Twitter
+              Sleeek Product Page
             </a>
           </div>
         </section>
