@@ -1,5 +1,5 @@
 ---
-id: how-does-it-work
+id: how-to-use-name-identification-tool
 title: How to use “Name Identification Tool”
 sidebar_label: How to use “Name Identification Tool“
 ---
