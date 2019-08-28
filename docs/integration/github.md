@@ -9,15 +9,9 @@ Sleeek connects to your GitHub with Sleeek GitHub App in order to get source cod
 
 The Sleeek GitHub App has only read permission to your repository. Using these data, Sleeek shows productivity of each member, relationship between source code and issue, review comments of every code committed to the repository by an automated source code review tool, etc.
 
-## How to connect to GitHub
-
-GitHub is a web-based hosting for repository management tool using Git. It also provides issue-tracking, bug tracking, and wiki for every project.  Sleeek  connects to your GitHub with Sleeek GitHub App (Fig. 1) in order to get source code information including its historical transition data, and issue information if you use issue-tracking feature. The Sleeek GitHub App has only read permition to your repository. If you need more information about GitHub App, please refer to GitHub Apps on your GitHub organizations.
-
-Using these data, Sleeek shows productivity of each member, relationship between source code and issue, review comments of every code committed to the repository by an automated source code review tool, etc.
-
 ![GitHub_conect_figs.png](../../img/docs/integration/github/GitHub_conect_figs.png)
 
-## Procedure
+## Setup Procedure
 
 1. Login to Sleeek, then go to the “Settings” page. If you haven’t created any dashboards yet, please create a dashboard first. Click GitHub icon in a dashboard you want to connect to GitHub (the dashboard already connected to GitHub has colored GitHub icon with a green button).
 
@@ -100,3 +94,6 @@ Once finished, click ‘Install’ button.
 
 This is end of the setup process for the GitHub side.
 Let’s back to Sleeek and continue to setup in Sleeek.
+
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/337503217" width="640" height="360" frameborder="0" allowfullscreen></iframe>

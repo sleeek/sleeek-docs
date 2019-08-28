@@ -17,4 +17,4 @@ The current version of Sleeek (ver. 08/19/2019) has 15 panels. Please see the ri
 
 
 
-![Panel list](../../img/docs/getting-started/panel_list.png)
+![Panel list](../../img/docs/general/panel_list.png)

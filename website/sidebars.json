@@ -1,8 +1,10 @@
 {
   "docs": {
-    "Getting Started": [
-      "index",
-      "getting-started/how-does-it-work"
+    "Index": [
+      "index"
+    ],
+    "General": [
+      "general/how-does-it-work"
     ],
     "Integration": [
       "integration/github",
