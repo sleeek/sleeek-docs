@@ -1,0 +1,15 @@
+{
+  "docs": {
+    "Getting Started": [
+      "index",
+      "getting-started/how-does-it-work"
+    ],
+    "Integration": [
+      "integration/github",
+      "integration/gitlab",
+      "integration/jira",
+      "integration/slack"
+    ]
+  }
+  
+}
