@@ -37,16 +37,14 @@ const siteConfig = {
   //   organizationName: 'JoelMarcey'
 
   // For no header links in the top nav bar -> headerLinks: [],
-  headerLinks: [
-    { search: true}
-  ],
+  headerLinks: [],
 
   
-  // algolia
-  algolia: {
-    apiKey: '51dcb3b824f87c158b835d2214553916',
-    indexName: 'sleeek-docs',
-  },
+  // // algolia
+  // algolia: {
+  //   apiKey: '51dcb3b824f87c158b835d2214553916',
+  //   indexName: 'sleeek-docs',
+  // },
 
 
   // If you have users set above, you add it here:
