@@ -42,8 +42,8 @@ const siteConfig = {
   
   // // algolia
   // algolia: {
-  //   apiKey: '51dcb3b824f87c158b835d2214553916',
-  //   indexName: 'sleeek-docs',
+  //   apiKey: '',
+  //   indexName: '',
   // },
 
 
@@ -110,7 +110,9 @@ const siteConfig = {
 
   // You may provide arbitrary config keys to be used as needed by your
   // template. For example, if you need your repo's URL...
-  //   repoUrl: 'https://github.com/facebook/test-site',
+    repoUrl: 'https://github.com/sleeek/sleeek-docs',
+
+    // editUrl: 'https://github.com/sleeek/sleeek-docs/edit/master/docs/',
 };
 
 module.exports = siteConfig;

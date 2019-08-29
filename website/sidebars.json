@@ -11,7 +11,8 @@
       "integration/github",
       "integration/gitlab",
       "integration/jira",
-      "integration/slack"
+      "integration/slack",
+      "integration/how-to-install-shep-non-admin"
     ]
   }
   
