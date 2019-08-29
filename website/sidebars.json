@@ -12,7 +12,8 @@
       "integration/gitlab",
       "integration/jira",
       "integration/slack",
-      "integration/how-to-install-shep-non-admin"
+      "integration/how-to-install-shep-non-admin",
+      "integration/remove-connection"
     ]
   }
   
