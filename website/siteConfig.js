@@ -38,13 +38,12 @@ const siteConfig = {
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [],
-
-  
-  // // algolia
-  // algolia: {
-  //   apiKey: '',
-  //   indexName: '',
-  // },
+ 
+  // algolia
+  algolia: {
+    apiKey: '9a0d7a57f57980b5401bcd95ae07b2ab',
+    indexName: 'sleeek',
+  },
 
 
   // If you have users set above, you add it here:
