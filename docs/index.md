@@ -10,8 +10,10 @@ Welcome to the Sleeek documentation. Sleeek is a product that collects/processes
 ## General
 
 - [How does it work?](general/how-does-it-work)
-- [How to use Name Identification Tool?](general/how-to-use-name-identification-tool)
 - [What is Workspace?](general/what-is-workspace)
+- [How to use Name Identification Tool?](general/how-to-use-name-identification-tool)
+- [How to use Issue Tracker panel?](general/how-to-use-issue-tracker-panel)
+
 ## Integration
 
 Sleeek connects to essential tools for a software project.

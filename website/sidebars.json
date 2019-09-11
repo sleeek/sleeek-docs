@@ -5,8 +5,10 @@
     ],
     "General": [
       "general/how-does-it-work",
+      "general/what-is-workspace",
       "general/how-to-use-name-identification-tool",
-      "general/what-is-workspace"
+      "general/how-to-use-issue-tracker-panel"
+      
     ],
     "Integration": [
       "integration/github",
