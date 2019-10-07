@@ -51,13 +51,13 @@ const siteConfig = {
 
   /* path to images for header/footer */
   headerIcon: 'img/header-logo.png',
-  footerIcon: 'img/favicon.ico',
+  footerIcon: 'img/header-logo.png',
   favicon: 'img/favicon.ico',
 
   /* Colors for website */
   colors: {
-    primaryColor: '#3095b1',
-    secondaryColor: '#5d624d',
+    primaryColor: '#0173AD',
+    secondaryColor: '#9FE5C8',
   },
 
   /* Custom fonts for website */
