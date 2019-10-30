@@ -5,14 +5,12 @@ sidebar_label: Connect with Slack
 ---
 
 
-Slack is a necessary tool for software developers to help to facilitate communication on a daily basis. Sleeek helps to make Slack communication even better. Sleeek gets data from your Slack workspaces using a Slack Chat Bot called “Shep” (Fig. 1). Once Shep is installed in your Slack workspace,  it gathers a list of channels in the workspace. From there, you can select channel members in your project which Shep will begin to have communication with.
+Many companies utilize Slack to help facilitate communication on a daily basis. Sleeek helps to make Slack communication even better by providing insightful data from analyzing source code, issue tracking system, and conversations of team members within your Slack workspace. After connecting your Slack, you can enjoy:
 
-After you connect Sleeek to Slack, you can enjoy:
+* Daily report summary (for project managers) 
+* Daily priority list (for members) 
 
-* “How’s each member doing?” panel in order to check each member’s current status
-* “Is your team hot enough?” panel (to be published in July) to check each member’s contribution activity.
-
-This page explains how to connect Sleeek with your workspace in Slack.
+This page cplains how to connect Sleeek with your workspace in Slcak. 
 
 
 ![GitLab_conect_figs.png](../../img/docs/integration/slack/Slack_conect_figs.png)
@@ -59,5 +57,3 @@ Note that you need several access rights to install the Slack bot into your work
 Now you can confirm each member’s status on the “How’s each member doing?” panel. (Of course, it takes at least one day to show each member’s answers to the question). Shep only has this function right now, but will be updated to have more useful functions for your software project. Stay tuned!
 
 ![Step 6](../../img/docs/integration/slack/step6.png)
-
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/347007590" width="640" height="360" frameborder="0" allowfullscreen></iframe>

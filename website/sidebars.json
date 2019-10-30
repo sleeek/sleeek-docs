@@ -6,8 +6,9 @@
     "General": [
       "general/how-does-it-work",
       "general/what-is-workspace",
-      "general/how-to-use-name-identification-tool",
-      "general/how-to-use-issue-tracker-panel"
+      "general/how-to-use-name-merge-tool",
+      "general/how-to-use-issue-tracker-panel",
+      "general/how-to-permanently-delete-your-account"
       
     ],
     "Integration": [
@@ -15,7 +16,7 @@
       "integration/gitlab",
       "integration/jira",
       "integration/slack",
-      "integration/how-to-install-shep-non-admin",
+      "integration/how-to-install-sleeek-bot-by-a-nonworkspace-admin",
       "integration/remove-connection"
     ]
   }

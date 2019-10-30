@@ -50,11 +50,11 @@ sidebar_label: How to remove Sleeek connection from Tools
 
 ![Step2](../../img/docs/integration/remove-conn/slack2.png)
 
-3. Type “Shep” in the “Title includes” search field, then click the Shep entry.
+3. Type “Sleeek bot” in the “Title includes” search field, then click the Sleeek bot entry. 
 
 ![Step3](../../img/docs/integration/remove-conn/slack3.png)
 
-4. In the Shep settings page, you can find “Remove App” button at the bottom of the page. Please click it.
+4. In the Sleeek bot setting page, you can find “Remove app” button at the bottom of the page.
 
 ![Step4](../../img/docs/integration/remove-conn/slack4.png)
 
