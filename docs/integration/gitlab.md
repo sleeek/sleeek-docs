@@ -5,17 +5,16 @@ sidebar_label: Connect with GitLab
 ---
 
 
-GitLab is a Git base repository management tool, and also provides issue-tracking and CI/CD pipeline features, developed by GitLab Inc. Sleeek connects to your GitLab with the OAuth2 protocol in order to get source code information including its historical transition data, and issue information if you use issue-tracking feature.
+To give you more insightful information and actionable suggestions, you can connect your GitLab to Sleek. We analyze source code  and issue management information along with feedback from your team members to provide comprehensive input for your team. 
 
-Using these data, Sleeek shows productivity of each member, relationship between source code and issue, review comments of every code committed to the repository by an automated source code review tool, etc.
-
-Note that Sleeek does READ access to GitLab only and does not do any WRITE access.
+Sleeek only has “READ PERMISSION” of your repository as well as we ensure your data is safe ([learn more about our security](https://sleeekbeta2019.squarespace.com/security)). 
 
 ![GitLab_conect_figs.png](../../img/docs/integration/gitlab/GitLab_conect_figs.png)
 
 ## Setup Procedure
 
-1. Login to Sleeek, then go to the “Settings” page. If you haven’t created any dashboards yet, please create a dashboard first. Click GitLab icon in a dashboard you want to connect to GitLab (the dashboard already connected to GitLab has colored GitLab icon with a green button).
+1. Login to Sleeek and go to the “Settings” page. When you sign up via Slack, a project (referred to as “workplace” or “dashboard”) is created. Click GitLab icon in a project you’d like to get comprehensive help from Sleeek. If you previously connected GitHub, you will see the green button on the top right corner on GitHub icon.<br>If you delete you project, go to #2 below.
+
 
 ![Step 1](../../img/docs/integration/gitlab/step1.png)
 
@@ -54,6 +53,3 @@ Enter your preferred name and Redirect URL which you copied from Sleeek. Check t
 
 
 8. The integration is completed. Sleeek analysis program starts running in order to create panels in the project view. It takes at least several minutes (depends on the data size of your repository).
-
-
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/337503254" width="640" height="360" frameborder="0" allowfullscreen></iframe>

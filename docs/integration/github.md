@@ -4,21 +4,20 @@ title: Connect with GitHub
 sidebar_label: Connect with GitHub
 ---
 
-Sleeek connects to your GitHub with Sleeek GitHub App in order to get source code information including its historical transition data, and issue information if you use issue-tracking feature.
+To give you more insightful information and actionable suggestions, you can connect your GitHub to Sleek. We analyze source code information along with your issue management as well as feedback from your team members to provide comprehensive input for your team. 
 
-
-The Sleeek GitHub App has only read permission to your repository. Using these data, Sleeek shows productivity of each member, relationship between source code and issue, review comments of every code committed to the repository by an automated source code review tool, etc.
+Sleeek only has “READ PERMISSION” of your repository as well as we ensure your data is safe ([learn more about our security](https://sleeekbeta2019.squarespace.com/security)). 
 
 ![GitHub_conect_figs.png](../../img/docs/integration/github/GitHub_conect_figs.png)
 
 ## Setup Procedure
 
-1. Login to Sleeek, then go to the “Settings” page. If you haven’t created any dashboards yet, please create a dashboard first. Click GitHub icon in a dashboard you want to connect to GitHub (the dashboard already connected to GitHub has colored GitHub icon with a green button).
+1. Login to Sleeek and go to the “Settings” page. When you sign up via Slack, a project (referred to as “workplace” or “dashboard”) is created. Click GitHub icon in a project you’d like to get comprehensive help from Sleeek. If you previously connected GitHub, you will see the green button on the top right corner on GitHub icon.<br>If you delete you project, go to #2 below.
 
 ![Step 1](../../img/docs/integration/github/step1.png)
 
 
-2. If you create a new dashboard, you will see this Dashboard setup page.  Please select GitHub, then press “Next”.
+2. If you create a new project, you will see this Dashboard setup page. Please select GitHub, then press “Next.”
 
 ![Step 2](../../img/docs/integration/github/step2.png)
 
@@ -33,18 +32,18 @@ The Sleeek GitHub App has only read permission to your repository. Using these d
 ![Step 4](../../img/docs/integration/github/step4.png)
 
 
-5. In this screen, please select the Organization name of which you would like to install Sleeek onto.
-Note : Each Organization require this process. If you would like to apply multiple organizations, please setup the following process for each organization.
+5. In below screen, please select the Organization name of which you would like to install Sleeek into. 
 
-![Step 4](../../img/docs/integration/github/step5.png)
-
-
-6. Select the appropriate repository in your organization. If you want to apply all, check ‘All repository’. If you want to apply any repository, check ‘Only select repository’.
-
-Once finished, click ‘Install’ button.
+Note: To set up each Organization, above steps are required. If you’d like to set p multiple Organizations, please repeat the above steps for each organization. 
 
 
-7. This is end of the setup process in GitHub’s side. Sleeek analysis program starts running in order to create panels in the project view. It takes at least several minutes (depends on the data size of your repository).
+![Step 5](../../img/docs/integration/github/step5.png)
+
+
+6. Select the appropriate repository in your organization. If you want to apply all, check ‘All repository’. If you want to apply any repository, check ‘Only select repository’.  Once finished, click ‘Install’ button.
+
+
+7. This is the end of the setup process for connecting GitHub. Sleeek’s analysis program starts running in order to create panels in the project view. IT takes at least several minutes depending on the data size of your repository. 
 
 
 ## Add a new organization
@@ -94,6 +93,3 @@ Once finished, click ‘Install’ button.
 
 This is end of the setup process for the GitHub side.
 Let’s back to Sleeek and continue to setup in Sleeek.
-
-
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/337503217" width="640" height="360" frameborder="0" allowfullscreen></iframe>
