@@ -22,7 +22,7 @@ Sleeek connects to essential tools for a software project.
 - [Connect with GitLab](integration/gitlab)
 - [Connect with Jira](integration/jira)
 - [Connect with Slack](integration/Slack)
-- [How to install "Shep" by a non-workspace admin](integration/how-to-install-sleeek-bot-by-a-nonworkspace-admin)
+- [How to install Sleeek bot by a non-workspace admin](integration/how-to-install-sleeek-bot-by-a-nonworkspace-admin)
 - [How to remove Sleeek connection from Tools](integration/remove-connection)
 
 
