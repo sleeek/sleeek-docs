@@ -42,6 +42,3 @@ By connecting JIRA to Sleeek to which Repository management system has already b
 
 
 7. The integration is completed. Sleeek analysis program starts running in order to create panels in the project view. It takes at least several minutes (depends on the data size of your repository).
-
-
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/347007184" width="640" height="400" frameborder="0" allowfullscreen></iframe>
