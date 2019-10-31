@@ -10,50 +10,45 @@ Many companies utilize Slack to help facilitate communication on a daily basis. 
 * Daily report summary (for project managers) 
 * Daily priority list (for members) 
 
-This page cplains how to connect Sleeek with your workspace in Slcak. 
+This page explains how to connect Sleeek with your workspace in Slcak. 
 
 
 ![GitLab_conect_figs.png](../../img/docs/integration/slack/Slack_conect_figs.png)
 
 ## Setup Procedure
 
-1. Login to Sleeek, then go to the “Settings” page. If you haven’t created any dashboards yet, please create a dashboard first. Pick a dashboard you want to connect with Slack (the dashboard already connected with Slack has colored Slack icon with a green button).
+1. Login to Sleeek, then go to the “Settings” page. Click "Create aa dashboard and start Sleeek" button to connect with Slack and start using Sleeek. 
 
 ![Step 1](../../img/docs/integration/slack/step1.png)
 
 
-2. Install the Slack chat bot “Shep” by clicking the “Connect with tool” button.
+2. It'll prompt you to install Sleeek-bot into your Slack workspace. 
 
 ![Step 2](../../img/docs/integration/slack/step2.png)
 
 
-3. You are then transferred to a setting page in Slack. Select a slack workplace you want to connect to Sleeek, then “authorize” Shep to do following items:
+3. Click "Allow" button to authorize Sleeek-bot to be added. If you are not the adinistrator of the Slack workspace, please request premission from the adminitrator to install Sleeek-bot. Go to [How to install Sleeek bot by a non-workspace admin](https://help.sleeek.io/integration/how-to-install-sleeek-bot-by-a-nonworkspace-admin).
 
-* Confirm your identity on <User Name>
-* Access information about your channels
-* Add slash commands and add actions to messages (and view related content)
-
-Note that you need several access rights to install the Slack bot into your workplace. If you have any errors related with access levels, please contact an administrator of your workspace.
-
-![Step 3](../../img/docs/integration/slack/step3.png)
+![Step 3](../../img/docs/integration/slack/step3.1.png)
 
 
-4. You will be then redirected back to the Sleeek web site. The list of channels you can access are shown. Please pick one of channels that you want to connect to Sleeek. Shep will then start communication with members who join this channel.
+4. Please select a Slack workspace you'd like Sleeek to be added by selecting a workspace from the drop down menue. Then, click "Pick up channel." 
 
 ![Step 4](../../img/docs/integration/slack/step4.png)
 
 
-5. Almost done! The final step is the configuration of the Sleeek panel called “How’s each member doing?”. For this panel, the Slack chat bot, Shep, is asking the overall status to each member. You can configure:
+5. Almost done! The final step is to set your preferences. Please note that our current version of product (Beta6) only support one timezone and language for each slack channel. You can configure:
 
-* Who should or shouldn’t Shep communicate with? (Default: all members who join the channel) 
-* When should Shep ask a question? (Default: 5:00PM)
+* Who is the project manager?
+* Who should or shouldn’t Sleeek-bot communicate with? 
+* When should Sleeek-bot ask a question? 
+* Timezone 
+* Language Preference 
 
 
 ![Step 5](../../img/docs/integration/slack/step5.png)
 
 
-6. Congratulations! Your Slack channel is connected to Sleeek. If you go back to the Setting view, you can see the Slack icon has green button. It means your Slack channel is successfully connected.
-
-Now you can confirm each member’s status on the “How’s each member doing?” panel. (Of course, it takes at least one day to show each member’s answers to the question). Shep only has this function right now, but will be updated to have more useful functions for your software project. Stay tuned!
+6. Congratulations! Your Slack channel is connected to Sleeek. Let's connect your repository and issue management to get more comprehensive feedback from Sleeek-bot. 
 
 ![Step 6](../../img/docs/integration/slack/step6.png)
