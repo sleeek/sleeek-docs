@@ -6,15 +6,15 @@ sidebar_label: How does it work?
 
 Sleeek is a chatbot application on Slack. It interprets various projects metrics and communication data and provides useful information for the project manager that normally takes much time. 
 
-Sleeek-bot uses API connections to JIRA, Git, BitBucket etc, combines the user sentiment data from Slack, and analyzes user behaviour using AI algorithms in order to provide fast and up to date information about software project status.
+Sleeek-bot uses API connections to JIRA, Git, BitBucket etc., combines the user sentiment data from Slack, and analyzes user behavior using AI algorithms in order to provide fast and up to date information about software project status.
 
-The tools are categorize to following 3 groups:
+The tools are categorized to following 3 groups:
 
 - Repository management tools: Ex) GitHub, GitLab, Bitbucket (not supported yet)
 - Issue management tools: Ex) GitHub, GitLab, Jira
 - Communication tools: Ex) Slack
 
-To get comprehensive information and actionable steps by Sleeek-bot, please connect to your repository management and issue management tool as well as Slack. The current version of Sleeek (Beta 6) will analyze souce code, issue management, and user behavior to provide insights based various metrics. In addition to Sleeek-bot, numerous panels are available in Sleee.io. Please see metrics you can see with each connected tool. 
+To get comprehensive information and actionable steps by Sleeek-bot, please connect to your repository management and issue management tool as well as Slack. The current version of Sleeek (Beta 6) will analyze source code, issue management, and user behavior to provide insights based various metrics. In addition to Sleeek-bot, numerous panels are available in Sleee.io. Please see metrics you can see with each connected tool. 
 
 
 Description|Panle View|Repository <br> <img width="30" alt="image" src="../../img/docs/general/How-does-it-work_imange/logo_hub-1200px.png"> <img width="30" alt="image" src="../../img/docs/general/How-does-it-work_imange/logo_lgb_1200px.png">|Issue <br> <img width="25" alt="image" src="../../img/docs/general/How-does-it-work_imange/logo_hub-1200px.png"> <img width="25" alt="image" src="../../img/docs/general/How-does-it-work_imange/logo_lgb_1200px.png"> <img width="25" alt="image" src="../../img/docs/general/How-does-it-work_imange/logo_jira_1200.png">|Communication <br> <img width="30" alt="image" src="../../img/docs/general/How-does-it-work_imange/logo_slack_1200px.png">|
