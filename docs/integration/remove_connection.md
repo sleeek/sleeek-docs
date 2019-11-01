@@ -6,7 +6,7 @@ sidebar_label: How to remove Sleeek connection from Tools
 
 ## How to remove Sleeek connection from GitLab
 
-1. Go on to “Settings” page in the Sleeek website, and click a GitLab icon that you want to disconnect. Please click “Delete” button in the following page.
+1. Go on to “Settings” page in the Sleeek website and click a GitLab icon that you want to disconnect. Please click “Delete” button in the following page.
 
 ![Step1](../../img/docs/integration/remove-conn/gitlab1.png)
 
@@ -21,11 +21,11 @@ sidebar_label: How to remove Sleeek connection from Tools
 
 ## How to remove Sleeek connection from GitHub
 
-1. Go on to “Settings” page in the Sleeek website, and click a GitHub icon that you want to disconnect. Please click “Delete” button in the following page.
+1. Go on to “Settings” page in the Sleeek website and click a GitHub icon that you want to disconnect. Please click “Delete” button in the following page.
 
 ![Step1](../../img/docs/integration/remove-conn/github1.png)
 
-2. Go on to “Settings” page in the Sleeek website, and click a GitHub icon that you want to disconnect. Please click “Delete” button in the following page.
+2. Go on to “Settings” page in the Sleeek website and click a GitHub icon that you want to disconnect. Please click “Delete” button in the following page.
 
 ![Step2](../../img/docs/integration/remove-conn/github2.png)
 
@@ -42,11 +42,11 @@ sidebar_label: How to remove Sleeek connection from Tools
 
 ## How to remove Sleeek connection from Slack
 
-1. Go on to “Settings” page in the Sleeek website, and click a GitHub icon that you want to disconnect. Please click the “Delete” button in the following page.
+1. Go on to “Settings” page in the Sleeek website and click a GitHub icon that you want to disconnect. Please click the “Delete” button in the following page.
 
 ![Step1](../../img/docs/integration/remove-conn/slack1.png)
 
-2. Go on your Slack Application page, and login your Slack workspace. After login, click “Manage” on the top menu.
+2. Go on your Slack Application page and login your Slack workspace. After login, click “Manage” on the top menu.
 
 ![Step2](../../img/docs/integration/remove-conn/slack2.png)
 
