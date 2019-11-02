@@ -1,5 +1,5 @@
 ---
-id: github
+id: github-add-organization
 title: Add an Additional Organization from GitHub
 sidebar_label: Add a Additional Organization from GitHub
 ---
