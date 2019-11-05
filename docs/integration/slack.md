@@ -5,7 +5,7 @@ sidebar_label: Connect with Slack
 ---
 
 
-Many companies utilize Slack to help facilitate communication on a daily basis. Sleeek helps to make Slack communication even better by providing insightful data from analyzing source code, issue tracking system, and conversations of team members within your Slack workspace. After connecting your Slack, you can enjoy:
+Many companies utilize [Slack](https://slack.com/) to help facilitate communication on a daily basis. Sleeek helps to make Slack communication even better by providing insightful data from analyzing source code, issue tracking system, and conversations of team members within your Slack workspace. After connecting your Slack, you can enjoy:
 
 * Daily report summary (for project managers) 
 * Daily priority list (for members) 

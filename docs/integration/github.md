@@ -4,9 +4,9 @@ title: Connect with GitHub
 sidebar_label: Connect with GitHub
 ---
 
-To give you more insightful information and actionable suggestions, you can connect your GitHub to Sleeek. We analyze source code information along with your issues/tasks as well as feedback from your team members to provide comprehensive input for your team. 
+To give you more insightful information and actionable suggestions, you can connect your [GitHub](https://github.com/) to Sleeek. We analyze source code information along with your issues/tasks as well as feedback from your team members to provide comprehensive input for your team. 
 
-Sleeek only has “READ PERMISSION” of your repository as well as we ensure your data is safe ([learn more about our security](https://sleeekbeta2019.squarespace.com/security)). 
+Sleeek only has [“READ PERMISSION”](https://developer.github.com/v3/apps/permissions/) of your repository as well as we ensure your data is safe ([learn more about our security](https://sleeekbeta2019.squarespace.com/security)). 
 
 ![GitHub_conect_figs.png](../../img/docs/integration/github/GitHub_conect_figs.png)
 
