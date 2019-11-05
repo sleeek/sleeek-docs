@@ -4,7 +4,7 @@ title: What is Workspace?
 sidebar_label: What is Workspace?
 ---
 
-A Sleeek Workspace is an organizational grouping that a user can create within Sleeek. It corresponds to Slack's Workspace that you used for sign in. Below is a detail of Workspace functions.
+A [Sleeek Workspace](https://slack.com/help/articles/217626298-getting-started-for-workspace-creators) is an organizational grouping that a user can create within Sleeek. It corresponds to Slack's Workspace that you used for sign in. Below is a detail of Workspace functions.
 
 The Workspace name will become a subdirectory.
 Clicking on the drop-down list at the top of the page will show the list of Workspaces that belong to users. You can switch the workspace within this list.
@@ -34,7 +34,7 @@ The following information about Sleeek members within a Workspace of choice will
 
 To invite a new member, click on “Invite new member” on the top right of the screen.
  
-<image width ="550" alt="image" src="../../img/docs/general/workspace_image/image13.png"
+<image width ="550" alt="image" src="../../img/docs/general/workspace_image/image13.png">
 
 Pick up member who you want to invite in "Member" list, select the access permission, and click on the "Invite" button. The following message will be delivered to the invitee through Slack.
  

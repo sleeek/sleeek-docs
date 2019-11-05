@@ -4,7 +4,7 @@ title: Connect with Jira
 sidebar_label: Connect with Jira
 ---
 
-JIRA is an enterprise software provided by Atlassian used for bug tracking, issue management, and project management.By connecting Sleeek and JIRA, you can receive insightful information from our Sleeek-bot. Moreover, if your repository management system has also connected with Sleeek, it is possible to comprehensively grasp the information of all elements that make up a project such as Code, Issue and Member, and prepare in advance for future project risks. 
+[JIRA](https://www.atlassian.com/software/jira) is an enterprise software provided by [Atlassian](https://www.atlassian.com/) used for bug tracking, issue management, and project management. By connecting Sleeek and JIRA, you can receive insightful information from our Sleeek-bot. Moreover, if your repository management system has also connected with Sleeek, it is possible to comprehensively grasp the information of all elements that make up a project such as Code, Issue and Member, and prepare in advance for future project risks. 
 
 
 ## Setup Procedure

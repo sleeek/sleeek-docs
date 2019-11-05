@@ -5,9 +5,9 @@ sidebar_label: Connect with GitLab
 ---
 
 
-To give you more insightful information and actionable suggestions, you can connect your GitLab to Sleek. We analyze source code  and issue management information along with feedback from your team members to provide comprehensive input for your team. 
+To give you more insightful information and actionable suggestions, you can connect your [GitLab](https://about.gitlab.com/) to Sleek. We analyze source code  and issue management information along with feedback from your team members to provide comprehensive input for your team. 
 
-Sleeek connects to GitLab using OAuth2 protocol. It does so in order to access source code information and its historical transition data (including issue information if you use the issue-tracking feature). ([learn more about our security](https://sleeekbeta2019.squarespace.com/security)). 
+Sleeek connects to GitLab using [OAuth2 protocol](https://docs.gitlab.com/ee/api/oauth2.html). It does so in order to access source code information and its historical transition data (including issue information if you use the issue-tracking feature). ([learn more about our security](https://sleeekbeta2019.squarespace.com/security)). 
 
 ![GitLab_conect_figs.png](../../img/docs/integration/gitlab/GitLab_conect_figs.png)
 
