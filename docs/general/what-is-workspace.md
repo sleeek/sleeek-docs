@@ -9,14 +9,14 @@ A Sleeek Workspace is an organizational grouping that a user can create within S
 The Workspace name will become a subdirectory.
 Clicking on the drop-down list at the top of the page will show the list of Workspaces that belong to users. You can switch the workspace within this list.
 
-![Image 1](../../img/docs/general/workspace_image/image1.png)
+<img width="550" alt="image" src="../../img/docs/general/workspace_image/image1.png">
 
 ## Workspace Settings
 By clicking on the Workspace menu on the left sidebar, the Workspace settings page will be shown.
  
-![Image 5](../../img/docs/general/workspace_image/image5.png)
+<img width="550" alt="image" src="../../img/docs/general/workspace_image/image5.png">
 
-![Image 12](../../img/docs/general/workspace_image/image12.png)
+<img width="550" alt="image" src="../../img/docs/general/workspace_image/image12.png">
  
 In this page, the Workspace display name and logo can be modified.
  
@@ -24,7 +24,7 @@ In this page, the Workspace display name and logo can be modified.
 ### How to invite members
 Clicking on the “Members” link on the left sidebar, member settings page is shown.
  
-![Image 7](../../img/docs/general/workspace_image/image7.png)
+<img width="550" alt="image" src="../../img/docs/general/workspace_image/image7.png">
 
 The following information about Sleeek members within a Workspace of choice will be displayed as below
 - Name
@@ -34,7 +34,7 @@ The following information about Sleeek members within a Workspace of choice will
 
 To invite a new member, click on “Invite new member” on the top right of the screen.
  
-![Image 13](../../img/docs/general/workspace_image/image13.png)
+<image width ="550" alt="image" src="../../img/docs/general/workspace_image/image13.png"
 
 Pick up member who you want to invite in "Member" list, select the access permission, and click on the "Invite" button. The following message will be delivered to the invitee through Slack.
  

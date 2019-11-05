@@ -49,3 +49,4 @@ Once finished, click ‘Install’ button.
 
 This is end of the setup process for the GitHub side.
 Let’s back to Sleeek and continue to setup in Sleeek.
+
