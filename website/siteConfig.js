@@ -43,6 +43,8 @@ const siteConfig = {
   algolia: {
     apiKey: '9a0d7a57f57980b5401bcd95ae07b2ab',
     indexName: 'sleeek',
+    gatrackingId: 'UA-498925-35',
+    gaGtag: true,
   },
 
 
