@@ -47,8 +47,7 @@ const siteConfig = {
   },
 
   // google
-  gatrackingId: 'UA-498925-35',
-  gaGtag: true,
+  gaTrackingId: 'UA-498925-35',
 
   // If you have users set above, you add it here:
   users,
