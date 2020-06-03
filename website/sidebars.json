@@ -15,6 +15,7 @@
       "integration/github",
       "integration/gitlab",
       "integration/jira",
+      "integration/jira-server-applink-ja",
       "integration/slack",
       "integration/github-add-organization",
       "integration/how-to-install-sleeek-bot-by-a-nonworkspace-admin",

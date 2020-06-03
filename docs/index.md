@@ -21,10 +21,9 @@ Sleeek connects to essential tools for a software project.
 - [Connect with GitHub](integration/github)
 - [Connect with GitLab](integration/gitlab)
 - [Connect with Jira](integration/jira)
+- [Linking with Jira Software Server](integration/jira-server-applink-ja)
 - [Connect with Slack](integration/slack)
 - [Add Organizations in GitHub](integration/github-add-organization)
 - [How to install Sleeek bot by a non-workspace admin](integration/how-to-install-sleeek-bot-by-a-nonworkspace-admin)
 - [How to remove Sleeek connection from Tools](integration/remove-connection)
-
-
 
