@@ -3,6 +3,7 @@ id: jira-server-applink-en
 title: Configuration on your Jira Software Server
 sidebar_label: Linking with Jira Software Server (en)
 ---
+**[Instruction in Japanese here.](jira-server-applink-ja)**
 
 Sleeek uses REST APIs to retrieve information from JIRA Software Server.
 To use REST API, [it is necessary to authorize the API usage by the user using the OAuth 1.0a protocol.](https://developer.atlassian.com/server/jira/platform/oauth/)  
