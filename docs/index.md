@@ -4,7 +4,7 @@ title: Index
 sidebar_label: Index
 ---
 
-Welcome to the Sleeek documentation. Sleeek is a remote management automation tool that consolidates that information from all the tools you use to give you unique insights about your team and your project’s overall health. Our sleeek-bot closes the awareness gap between project managers and their dev teams by providing thoughtful data and asking questions.
+Welcome to Sleeek's documentation site. Sleeek is a data aggregation solution for engineering managers that converts available data into digestible stories that they can act on.
 
 ## General
 
