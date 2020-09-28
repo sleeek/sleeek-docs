@@ -13,11 +13,21 @@ Sleeek connects to GitLab using [OAuth2 protocol](https://docs.gitlab.com/ee/api
 
 ## Setup Procedure
 
-1. Login to Sleeek, then go to the "Setting" page. Click "a dashboard and start Sleeek" button to connect with Gitlab. If you previously connected GitHub, you will see the green button on the top right corner on GitHub icon. 
+1. Connecting to GitLab can done by 
+- going through the initial setup process
+- accessing the dashboard setup page
 
-    Please note that internet access is required to connect Sleeek with GitLab. 
+The initial setup screen when you first log into Sleeek will show a set of panels. You will need to select one of the 'Connect to Tools' button associated with GitLab, after which you will be taken to a page to connect to tools. 
 
-![Step 1](../../img/docs/integration/gitlab/step1.png)
+![Initial Setup 1](../../img/docs/integration/gitlab/Integration-First-Page-GitLab-rd.jpg)
+
+Once at the connect to tools page, select GitLab. Then you will be taken to a GitLab connection process flow.
+
+![Initial Setup 2](../../img/docs/integration/gitlab/Integration-02-ToolsSelect-Gitlab.png)
+
+If you have already connected some tools and want to connect to GitLab, you will need to go to the dashboard settings page on the left sidebar and click on dashboard, and then select 'GitLab' on the dashboard you choose. This will then take you to the GitLab connection process.
+
+![Dashboard Setup Page](../../img/docs/integration/gitlab/Integration-02-ToolsSelect-FromSettingsPage-Gitlab.png)
 
 
 2. Please input your GitLab server URL and click the "Next" button. If it is not able to access your Gitlab repositories, please contact your network administrator. 

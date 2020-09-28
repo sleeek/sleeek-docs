@@ -9,9 +9,21 @@ sidebar_label: Connect with Jira
 
 ## Setup Procedure
 
-1. Login to Sleeek, then go to the “Settings” page.You can view the registered Dashboard on this page, so click the JIRA icon on the Dashboard to which you want to connect JIRA.
+1. Connecting to Jira can done by 
+- going through the initial setup process
+- accessing the dashboard setup page
 
-![Step 1](../../img/docs/integration/jira/step1.png)
+The initial setup screen when you first log into Sleeek will show a set of panels. You will need to select one of the 'Connect to Tools' button associated with Jira, after which you will be taken to a page to connect to tools. 
+
+![Initial Setup 1](../../img/docs/integration/jira/Integration-First-Page-jira-rd.jpg)
+
+Once at the connect to tools page, select Jira. Then you will be taken to a Jira connection process flow.
+
+![Initial Setup 2](../../img/docs/integration/jira/Integration-02-ToolsSelect-jira.png)
+
+If you have already connected some tools and want to connect to Jira, you will need to go to the dashboard settings page on the left sidebar and click on dashboard, and then select 'Jira' on the dashboard you choose. This will then take you to the Jira connection process.
+
+![Dashboard Setup Page](../../img/docs/integration/jira/Integration-02-ToolsSelect-FromSettingsPage-jira.png)
 
 
 2. Issue API token from JIRA side. Click on the "Atlassian account page" to go to the screen on the JIRA side.

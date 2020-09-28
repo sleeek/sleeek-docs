@@ -8,7 +8,7 @@ Welcome to Sleeek's documentation site. Sleeek is a data aggregation solution fo
 
 ## General
 
-- [How does it work?](general/how-does-it-work)
+- [How it works](general/how-it-works)
 - [What is Workspace?](general/what-is-workspace)
 - [How to use Name Merge Tool?](general/how-to-use-name-merge-tool)
 - [How to use Issue Tracker panel?](general/how-to-use-issue-tracker-panel)
@@ -24,7 +24,6 @@ Sleeek connects to essential tools for a software project.
 - [Linking with Jira Software Server (ja)](integration/jira-server-applink-ja)
 - [Linking with Jira Software Server (en)](integration/jira-server-applink-en)
 - [Connect with Slack](integration/slack)
-- [Add Organizations in GitHub](integration/github-add-organization)
 - [How to install Sleeek bot by a non-workspace admin](integration/how-to-install-sleeek-bot-by-a-nonworkspace-admin)
 - [How to remove Sleeek connection from Tools](integration/remove-connection)
 

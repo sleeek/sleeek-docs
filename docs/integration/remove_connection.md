@@ -8,7 +8,9 @@ sidebar_label: How to remove Sleeek connection from Tools
 
 1. Go on to “Settings” page in the Sleeek website and click a GitLab icon that you want to disconnect. Please click “Delete” button in the following page.
 
-![Step1](../../img/docs/integration/remove-conn/gitlab1.png)
+![Step1](../../img/docs/integration/remove-conn/Removal-Settings-Gitlab-01.png)
+
+![Step1.5](../../img/docs/integration/remove-conn/Removal-Settings-Gitlab-02.png)
 
 2. Login your GitLab server. Click your user icon at the top right corner, then select “Settings”.
 
@@ -23,7 +25,9 @@ sidebar_label: How to remove Sleeek connection from Tools
 
 1. Go on to “Settings” page in the Sleeek website and click a GitHub icon that you want to disconnect. Please click “Delete” button in the following page.
 
-![Step1](../../img/docs/integration/remove-conn/github1.png)
+![Step1](../../img/docs/integration/remove-conn/Removal-Settings-Github-01.png)
+
+![Step1.5](../../img/docs/integration/remove-conn/Removal-Settings-Github-02.png)
 
 2. Go on to “Settings” page in the Sleeek website and click a GitHub icon that you want to disconnect. Please click “Delete” button in the following page.
 
@@ -44,7 +48,9 @@ sidebar_label: How to remove Sleeek connection from Tools
 
 1. Go on to “Settings” page in the Sleeek website and click a GitHub icon that you want to disconnect. Please click the “Delete” button in the following page.
 
-![Step1](../../img/docs/integration/remove-conn/slack1.png)
+![Step1](../../img/docs/integration/remove-conn/Removal-Settings-Slack-01.png)
+
+![Step1.5](../../img/docs/integration/remove-conn/Removal-Settings-Slack-02.png)
 
 2. Go on your Slack Application page and login your Slack workspace. After login, click “Manage” on the top menu.
 
@@ -63,7 +69,9 @@ sidebar_label: How to remove Sleeek connection from Tools
 
 1. Go on to ‘Settings’ page in the Sleeek website, and click a JIRA icon that you want to disconnect. Please click “Delete” button in the following page.
 
-![Step1](../../img/docs/integration/remove-conn/jira1.png)
+![Step1](../../img/docs/integration/remove-conn/Removal-Settings-Jira-01.png)
+
+![Step1.5](../../img/docs/integration/remove-conn/Removal-Settings-Jira-02.png)
 
 2. Login your JIRA account. Click your user icon at the top right corner, then select ‘Profile’ and Click ‘Manage profile’ in next page.
 

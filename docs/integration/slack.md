@@ -17,9 +17,21 @@ This page explains how to connect Sleeek with your workspace in Slack.
 
 ## Setup Procedure
 
-1. Login to Sleeek, then go to the “Settings” page. Click "Create aa dashboard and start Sleeek" button to connect with Slack and start using Sleeek. 
+1. Connecting to Slack can done by 
+- going through the initial setup process
+- accessing the dashboard setup page
 
-![Step 1](../../img/docs/integration/slack/step1.png)
+The initial setup screen when you first log into Sleeek will show a set of panels. You will need to select one of the 'Connect to Tools' button associated with Slack, after which you will be taken to a page to connect to tools. 
+
+![Initial Setup 1](../../img/docs/integration/slack/Integration-First-Page-slack-rd.jpg)
+
+Once at the connect to tools page, select Slack. Then you will be taken to a Slack connection process flow.
+
+![Initial Setup 2](../../img/docs/integration/slack/Integration-02-ToolsSelect-slack.png)
+
+If you have already connected some tools and want to connect to Slack, you will need to go to the dashboard settings page on the left sidebar and click on dashboard, and then select 'Slack' on the dashboard you choose. This will then take you to the Slack connection process.
+
+![Dashboard Setup Page](../../img/docs/integration/slack/Integration-02-ToolsSelect-FromSettingsPage-slack.png)
 
 
 2. It'll prompt you to install Sleeek-bot into your Slack workspace. 
@@ -32,23 +44,19 @@ This page explains how to connect Sleeek with your workspace in Slack.
 ![Step 3](../../img/docs/integration/slack/step3.1.png)
 
 
-4. Please select a Slack workspace you'd like Sleeek to be added by selecting a workspace from the drop down menu. Then, click "Pick up channel." 
+4. Please select a Slack channel in your workspace through the drop down menu. 
 
-![Step 4](../../img/docs/integration/slack/step4.png)
+![Step 4](../../img/docs/integration/slack/Integration-SlackOnboarding01.png)
 
 
 5. Almost done! The final step is to set your preferences. Please note that our current version of product (Beta6) only support one time zone and language for each slack channel. You can configure:
 
-* Who is the project manager?
-* Who should or shouldn’t Sleeek-bot communicate with? 
-* When should Sleeek-bot ask a question? 
+* Who should or shouldn’t Sleeek-bot communicate with 
+* When should Sleeek-bot ask questions 
 * Time zone 
 * Language Preference 
 
+![Step 5](../../img/docs/integration/slack/Integration-SlackOnboarding02.png)
 
-![Step 5](../../img/docs/integration/slack/step5.png)
 
-
-6. Congratulations! Your Slack channel is connected to Sleeek. Let's connect your repository and issue management to get more comprehensive feedback from Sleeek-bot. 
-
-![Step 6](../../img/docs/integration/slack/step6.png)
+6. Congratulations! Your Slack channel is connected to Sleeek.
