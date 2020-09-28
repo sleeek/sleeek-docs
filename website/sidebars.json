@@ -4,7 +4,7 @@
       "index"
     ],
     "General": [
-      "general/how-does-it-work",
+      "general/how-it-works",
       "general/what-is-workspace",
       "general/how-to-use-name-merge-tool",
       "general/how-to-use-issue-tracker-panel",
@@ -18,7 +18,6 @@
       "integration/jira-server-applink-ja",
       "integration/jira-server-applink-en",
       "integration/slack",
-      "integration/github-add-organization",
       "integration/how-to-install-sleeek-bot-by-a-nonworkspace-admin",
       "integration/remove-connection"
     ]

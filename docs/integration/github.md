@@ -12,9 +12,21 @@ Sleeek only has [“READ PERMISSION”](https://developer.github.com/v3/apps/per
 
 ## Setup Procedure
 
-1. During the initial setup and reminders from Sleeek-bot to set up your GitHub, you can click the link. To manually complete this step, log in to [Sleeek](app.sleeek.io) and go to the "Settings" page. Then, click "Connect to GitHub."
+1. Connecting to GitHub can done by 
+- going through the initial setup process
+- accessing the dashboard setup page
 
-![Step 1](../../img/docs/integration/github/step1.png)
+The initial setup screen when you first log into Sleeek will show a set of panels. You will need to select one of the 'Connect to Tools' button associated with GitHub, after which you will be taken to a page to connect to tools. 
+
+![Initial Setup 1](../../img/docs/integration/github/Integration-First-Page-GitHub-rd.jpg)
+
+Once at the connect to tools page, select GitHub. Then you will be taken to a GitHub connection process flow.
+
+![Initial Setup 2](../../img/docs/integration/github/Integration-02-ToolsSelect-Github.png)
+
+If you have already connected some tools and want to connect to GitHub, you will need to go to the dashboard settings page on the left sidebar and click on dashboard, and then select 'GitHub' on the dashboard you choose. This will then take you to the GitHub connection process.
+
+![Dashboard Setup Page](../../img/docs/integration/github/Integration-02-ToolsSelect-FromSettingsPage-Github.png)
 
 
 2. To connect with your GitHub repositories, you need to install Sleeek GitHub Apps on your GitHub organizations. Click ‘Install Apps via GitHub’. Then move to setup page on GitHub. 
