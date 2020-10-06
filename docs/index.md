@@ -9,6 +9,7 @@ Welcome to Sleeek's documentation site. Sleeek is a data aggregation solution fo
 ## General
 
 - [How it works](general/how-it-works)
+- [Explanation of Panels](general/explanation-of-panels)
 - [What is Workspace?](general/what-is-workspace)
 - [How to use Name Merge Tool?](general/how-to-use-name-merge-tool)
 - [How to use Issue Tracker panel?](general/how-to-use-issue-tracker-panel)

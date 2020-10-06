@@ -18,10 +18,13 @@ Description|Panel View|Repository <br> <img width="30" alt="image" src="../../im
 :-:|:-:|:-:|:-:|:-:
 Team Status Overview|<img width="130" alt="image" src="../../img/docs/general/How-does-it-work_imange/Panels04.png">|||X
 Project Burndown Chart|<img width="130" alt="image" src="../../img/docs/general/How-does-it-work_imange/Panels12.png">||X||
-Daily Code Contribution|<img width="130" alt="image" src="../../img/docs/general/How-does-it-work_imange/Panels03.png">|X|||
-AI Merge Inspect|<img width="130" alt="image" src="../../img/docs/general/How-does-it-work_imange/Panels06.png">|X||X|
+Code Contribution Over Time|<img width="130" alt="image" src="../../img/docs/general/How-does-it-work_imange/Panels03.png">|X|||
+PR/MR Status Overview|<img width="130" alt="image" src="../../img/docs/general/How-does-it-work_imange/Panels06.png">|X||X|
 Issue Tracker|<img width="130" alt="image" src="../../img/docs/general/How-does-it-work_imange/Panels05.png">||X||
 Time Elapsed Since Last Push|<img width="130" alt="image" src="../../img/docs/general/How-does-it-work_imange/Panels08.png">||X||
 Individual Activity Level|<img width="130" alt="image" src="../../img/docs/general/How-does-it-work_imange/Panels13.png">|X|X|X|
 Fight Against COVID-19|<img width="130" alt="image" src="../../img/docs/general/How-does-it-work_imange/Panels15.png">|||X|
 Task Description Fidelity|<img width="130" alt="image" src="../../img/docs/general/How-does-it-work_imange/Panels16.png">||X||
+Team Velocity|<img width="130" alt="image" src="../../img/docs/general/How-does-it-work_imange/Panels17.png">||X||
+Notification Center|<img width="130" alt="image" src="../../img/docs/general/How-does-it-work_imange/Panels18.png">|X|X|X|
+Support Activity Tracker|<img width="130" alt="image" src="../../img/docs/general/How-does-it-work_imange/Panels19.png">|X|X||
