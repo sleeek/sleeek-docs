@@ -56,7 +56,7 @@ Here you will see a scatter plot, which plots the number of characters used in t
 This is the notification center, which provides a list of potential risks that may require a manager's attention. It is a compilation of possible problems picked up from other panels based on your API connections to Jira, Github, Gitlab, or Slack.
 
 ## Code Contribution Over Time
-[![Code Contribution Over Time Panel Video - Click To Play](http://img.youtube.com/vi/V-TtO-TDg9M/0.jpg)](http://www.youtube.com/watch?v=V-TtO-TDg9M "Code Contribution Over Time Panel Video - Click To Play")
+[![Code Contribution Over Time Panel Video - Click To Play](https://img.youtube.com/vi/V-TtO-TDg9M/0.jpg)](https://www.youtube.com/watch?v=V-TtO-TDg9M "Code Contribution Over Time Panel Video - Click To Play")
 This is the code contribution over time panel, that provides a visual of the lines of code produced in a team. This is created through an API connection to your code repositories. 
 
 While lines of code isn't considered a valuable measure on its own, its aggregation over an extended period of time can reveal trends such as team fatigue or change in development phase. 
