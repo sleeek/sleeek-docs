@@ -22,7 +22,7 @@ This is the issue tracker panel which shows the activity level for a given task 
 
 In this example for issue SP 1161 which is already closed, 2 comments were made in Jira, and in the code repo, 209 lines of code were added, 78 lines were copied, and 15 lines were deleted, and you can see how the activity level compares to other issues. 
 
-This can be shown for multiple milestones or sprints which you can switch to up here, and issues of lesser activity level can be seen down here.
+This can be shown for multiple milestones or sprints, and issues of lesser activity level can be seen as well.
 
 ## Project Burndown Panel
 [![Project Burndown Panel Video - Click To Play](https://img.youtube.com/vi/EGYqfCrGUtk/0.jpg)](https://www.youtube.com/watch?v=EGYqfCrGUtk "Project Burndown Panel Video - Click To Play")
@@ -43,9 +43,21 @@ This is the time elapsed since last push panel, which shows the number of days t
 
 This is the pull request or merge request status overview panel, that provides a visual of when pull requests are opened and closed, along with comments and interactions associated with them. This is created through an API connection to your github or gitlab accounts.
 
-For example, here is a pull request sleeek-demo 833 that was opened by Alex, to do with updating a notification center feature, opened on March 17th. Now if we move to the side here, and look at the pull request comments, you'll see that Alex has put in the original description of what has been added, but then also asks Tedd a question, followed by a reply from Tedd, and you can track the comments in Git without leaving Sleeek. 
+## Task Description Fidelity
+[![Task Description Fidelity Panel Video - Click To Play](https://img.youtube.com/vi/FKTvfvPXQ70/0.jpg)](https://www.youtube.com/watch?v=FKTvfvPXQ70 "Task Description Fidelity Panel Video - Click To Play")
 
-Now going back to this pull request, the obvious thing to notice here is that this pull request hasn't been closed, and it appears to have been forgotton, possibly to do with some miscommunication based on the comments exchanged, and perhaps calls for some manegerial action.
+This is the task description fidelity panel, which shows potential risk in your task descriptions, and is created from your API connections to Jira or GitLab and GitHub's project tracking feature. 
 
-Another thing to note here is that if you need to access the page on github or gitlab to do with this pull request, you can always click on the links here on left, and a separate tab will open for you.
+Here you will see a scatter plot, which plots the number of characters used in the description of the task, against the number of story points it corresponds to. 
+
+## Notification Center
+[![Notification Center Panel Video - Click To Play](https://img.youtube.com/vi/ZLfKgAy-Pj4/0.jpg)](https://www.youtube.com/watch?v=ZLfKgAy-Pj4 "Notification Center Panel Video - Click To Play")
+
+This is the notification center, which provides a list of potential risks that may require a manager's attention. It is a compilation of possible problems picked up from other panels based on your API connections to Jira, Github, Gitlab, or Slack.
+
+## Code Contribution Over Time
+[![Code Contribution Over Time Panel Video - Click To Play](http://img.youtube.com/vi/V-TtO-TDg9M/0.jpg)](http://www.youtube.com/watch?v=V-TtO-TDg9M "Code Contribution Over Time Panel Video - Click To Play")
+This is the code contribution over time panel, that provides a visual of the lines of code produced in a team. This is created through an API connection to your code repositories. 
+
+While lines of code isn't considered a valuable measure on its own, its aggregation over an extended period of time can reveal trends such as team fatigue or change in development phase. 
 
